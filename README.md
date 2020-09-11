@@ -1,4 +1,5 @@
-## Figure 3 slider: Bayes-optimal estimation of overlap between populations of fixed size
+# Figure 3 slider
+> Bayes-optimal estimation of overlap between populations of fixed size
 *Daniel B. Larremore*  <br> 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zelenkastiot/Figure3_enhanced/master?urlpath=lab/tree/)
