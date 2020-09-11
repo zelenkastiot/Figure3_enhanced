@@ -11,10 +11,3 @@ Official repo: https://github.com/dblarremore/BayesianRepertoireOverlap/
 
 
 Jupyter-book: https://notebook-factory.github.io/BayesianRepetoireOverlap/01Introduction/intro
-<br>
-
-<hr>
-<p align="center">
-<img src="https://avatars3.githubusercontent.com/u/63861117?s=200&v=4" style="width:40px;"></img> <br>
-This repository is created by <a href="https://github.com/Notebook-Factory">Notebok-Factory</a>. 
-</p>
