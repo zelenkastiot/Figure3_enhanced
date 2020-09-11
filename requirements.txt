@@ -1,0 +1,11 @@
+pandas
+numpy
+datascience
+folium
+matplotlib
+nbinteract
+scipy
+palettable
+jupyter-book
+plotly
+xlrd
