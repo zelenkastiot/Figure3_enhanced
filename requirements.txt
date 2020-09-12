@@ -1,9 +1,6 @@
 pandas
 numpy
 matplotlib
-nbinteract
 scipy
 palettable
-jupyter-book
 plotly
-xlrd
